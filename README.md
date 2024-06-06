@@ -2,7 +2,7 @@
 
 [Sheriyans coding school](https://www.youtube.com/playlist?list=PLbtI3_MArDOn2wYYazc6Q2mzEo-28r1d0)
 
-## video - 1 (lect1)  
+## video - 1
 
 -> `npx create-next-app` - to create react app  
 What is your project named? ... my-app  
